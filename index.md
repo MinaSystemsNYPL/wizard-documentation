@@ -2,6 +2,9 @@
 title: Home
 layout: home
 ---
+# 🪄 Wizard
+
+**Wizard** is a high-performance production toolkit for automated image processing, computer vision analysis, and repository management.
 
 This is the documentation site for **Wizard**: an in-house app for automated workflows for DIS at NYPL. Here you can find details on how to best use the application, features and their results, frequently asked questions, and more.
 
