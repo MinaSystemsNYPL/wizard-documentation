@@ -21,6 +21,9 @@ This tool does the following:
     - By comparing the downloaded file hashes with the uploaded file hashes, user can verify the integrity of the downloaded file
 5. A manifest of downloaded files is served locally via Chrome for user to verify
 
+### Important Note:
+- Please ensure the repo volume is mounted, by pressing "Ensure Repo is Mounted" or the download will not work
+
 ## Use
 ### Repo Check:
 - This tool is used to download any image from the repository to check for file integrity, and Repository access
