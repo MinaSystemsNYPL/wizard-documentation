@@ -6,6 +6,9 @@ nav_order: 3
 ---
 
 # Repo Depot
+
+<img width="598" height="1055" alt="Screenshot 2026-06-15 at 10 40 51 AM" src="https://github.com/user-attachments/assets/38779221-cd70-4f19-adf6-e7165adea5bc" />
+
 This tool does the following:
 1. Finds all variants of all files by using their capture ID
     - Lists them in the table below the folder drop zone
@@ -20,4 +23,4 @@ This tool does the following:
 
 ## Use
 ### Repo Check:
-- This tool is primarily used to download any image from the repository to check for file integrity, and Repository access
+- This tool is used to download any image from the repository to check for file integrity, and Repository access
