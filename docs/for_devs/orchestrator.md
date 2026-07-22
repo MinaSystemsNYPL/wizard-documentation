@@ -2,12 +2,9 @@
 layout: default
 title: Orchestrator
 parent: For Devs
-nav_order: 3
+nav_order: 9
 ---
 
 # Orchestrator
-The orchestrator is a crucial part of the Wizard ecosystem. It acts as the *"management"* for all of the *"grunt"* action scripts.
 
-The file is ~1435 lines, but it is roughly grouped together by action.
-
-Orchestrator creates plans for actions, runs those actions, and has some supporting methods for these actions as well.
+Documentation for the `orchestrator.py` module.
